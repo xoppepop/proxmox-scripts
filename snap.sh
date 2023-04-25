@@ -1,4 +1,4 @@
-#!
+#!/bin/bash
 PATH="/usr/sbin:/usr/bin:/sbin:/bin"
 #---- Example crontab
 # SHELL=/bin/bash
